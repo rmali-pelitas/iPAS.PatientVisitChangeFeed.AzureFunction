@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureCosmosConnectionString": "AccountEndpoint=https://ipasqa-patient-cosmos-db.documents.azure.com:443/;AccountKey=anAbRiNBDRQBpCOhbioVFajlCWFdyxyiWk4p3tTIJsKLVOs1finuCROWmSjO8BlMQZl2Wv3HdgxKma2zoKSnVA==;"
+  }
+}
